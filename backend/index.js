@@ -5,9 +5,15 @@ const cors = require('cors');
 
 const app = express();
 
-const highscoresFilePath = path.join('C:', 'Programmering', 'github', 'webb23-js2-inlamning1-Aiserich-Engblom-1', 'backend', 'data', 'highscores.json');
+const highscoresFilePath = path.join(__dirname, 'data', 'highscores.json'); // Använd __dirname för att bygga sökvägen korrekt
 
 app.use(express.json());
+
+// CSP-header
+app.use((req, res, next) => {
+    res.setHeader('Content-Security-Policy', "default-src 'self' http://localhost:1234"); // Lägg till andra domäner och källor efter behov
+    next();
+});
 
 // CORS-konfiguration
 const corsOptions = {
