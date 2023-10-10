@@ -1,0 +1,27 @@
+26
+81C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\css133414025588202589 1
+85C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\main.js133414030372199234 0
+82C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist133414099024064361 1
+95C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\.bin133414036420210131 1
+98C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@parcel133414036426039585 1
+88C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\index.html133414029758159906 0
+90C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules133414036426019501 1
+109C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\.package-lock.json133414036426137160 0
+95C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\package-lock.json133414036426090064 0
+97C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@babel133414036425686921 1
+97C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@lezer133414036423123404 1
+95C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@swc133414036425276105 1
+96C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@lmdb133414036421417903 1
+100C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@mischnic133414036423123404 1
+108C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@msgpackr-extract133414036421417903 1
+99C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@nodelib133414036424960063 1
+100C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@trysound133414036423182049 1
+97C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\node_modules\@types133414036421437882 1
+103C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\frontend.3464ddca.js133414099023935545 0
+107C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\frontend.3464ddca.js.map133414099024041575 0
+101C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\index.b2625c6b.css133414085933735059 0
+91C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\css\style.css133414025588212567 0
+100C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\index.c4775257.js133414085933819794 0
+105C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\index.b2625c6b.css.map133414085933870184 0
+104C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\index.c4775257.js.map133414085933870184 0
+93C:\Programmering\github\webb23-js2-inlamning1-Aiserich-Engblom-1\frontend\src\dist\index.html133414085933765049 0
